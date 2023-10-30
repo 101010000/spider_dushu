@@ -65,9 +65,9 @@ LOG_FILE = 'logdemo.log'
 #}
 DB_HOST = '127.0.0.1'
 DE_PORT = 3306
-DB_USER = 'root'
-DB_PASSWORD = '123456'
-DB_NAME = 'spider01'
+DB_USER = 'xxx'
+DB_PASSWORD = 'xxx'
+DB_NAME = 'xxx'
 DB_CHARSET = 'utf8'
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
